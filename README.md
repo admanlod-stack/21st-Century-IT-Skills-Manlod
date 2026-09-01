@@ -9,7 +9,7 @@
 
 ![Elective](https://img.shields.io/badge/Elective-21st%20Century%20IT%20Skills-00a8e8?style=for-the-badge&logo=github&labelColor=2b2d42)
 ![Field](https://img.shields.io/badge/Focus-Digital%20Design%20%26%20IT-f472b6?style=for-the-badge&labelColor=2b2d42)
-![Academic](https://img.shields.io/badge/Course-BS%20Nursing-a5b4fc?style=for-the-badge&labelColor=2b2d42)
+![Academic](https://img.shields.io/badge/Program-BS%20Nursing-a5b4fc?style=for-the-badge&labelColor=2b2d42)
 
 <br/>
 
