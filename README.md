@@ -1,33 +1,82 @@
+<div align="center">
+
 # 👋 Welcome to My GE 4120 Digital Portfolio
 
-Hello! My name is **Aaron Manlod** from **BSN 4D**, and welcome to my **GE 4120 – 21st Century IT Skills Digital Portfolio**.
+<p align="center">
+  <strong>Aaron Manlod</strong> • <em>BSN 4D</em><br>
+  <strong>Course:</strong> GE 4120 – 21st Century IT Skills
+</p>
 
-This repository contains the activities and projects I completed throughout the course. Each activity is organized into its own dedicated folder, serving as a **spotlight** for the work I created, the skills I developed, and the knowledge I gained along the way.
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge&logo=github)
+![Field](https://img.shields.io/badge/Focus-Digital%20Design%20%26%20IT-blue?style=for-the-badge)
+![Academic](https://img.shields.io/badge/Degree-BS%20Nursing-red?style=for-the-badge)
 
-## 📚 Activities
-
-The portfolio includes the following activities:
-
-### 🎨 Activity 1 — Presentation Design Principles
-
-Exploration and application of fundamental principles used in creating effective and visually engaging presentations.
-
-### 🌈 Activity 2 — Color Palette and Typography
-
-Application of appropriate color combinations and typography to create cohesive and visually appealing designs.
-
-### 📱 Activity 3 — Social Media Infographics and Mini Project Documentation
-
-Creation of social media infographics and documentation of a mini project, showcasing the practical application of the skills learned throughout the course.
-
-## 📂 Repository Structure
-
-Each activity has its own dedicated folder containing the corresponding outputs and documentation.
-
-Feel free to explore each folder and discover the different activities and projects I completed throughout **GE 4120 – 21st Century IT Skills**.
+<br/>
 
 ---
 
-**Thank you for visiting my digital portfolio!** ✨
+</div>
 
-*— Aaron Manlod, BSN 4D*
+## 📌 About This Portfolio
+
+Hello! My name is **Aaron Manlod** from **BSN 4D**, and welcome to my **GE 4120 – 21st Century IT Skills** Digital Portfolio.
+
+This repository serves as a digital archive of the activities, mini-projects, and visual outputs I completed throughout the course. Each module is organized into its own dedicated folder, serving as a spotlight for the work I created, the practical design and tech skills I developed, and the knowledge I gained along the way.
+
+---
+
+## 📚 Activities Showcase
+
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3>🎨 Activity 1</h3>
+      <p><strong>Presentation Design Principles</strong></p>
+      <p align="justify">Exploration and application of fundamental visual principles used in creating effective, structured, and visually engaging slide presentations.</p>
+      <br>
+      <a href="./Activity-1-Presentation-Design/">
+        <img src="https://img.shields.io/badge/View_Folder-📁-blue?style=flat-square" alt="View Activity 1">
+      </a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🌈 Activity 2</h3>
+      <p><strong>Color Palette & Typography</strong></p>
+      <p align="justify">Application of harmonious color combinations, contrast theory, and typography hierarchies to create cohesive, readable, and aesthetic designs.</p>
+      <br>
+      <a href="./Activity-2-Color-Typography/">
+        <img src="https://img.shields.io/badge/View_Folder-📁-indigo?style=flat-square" alt="View Activity 2">
+      </a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>📱 Activity 3</h3>
+      <p><strong>Infographics & Documentation</strong></p>
+      <p align="justify">Creation of social media infographics and comprehensive mini-project documentation, highlighting the real-world application of 21st-century IT skills.</p>
+      <br>
+      <a href="./Activity-3-Infographics-MiniProject/">
+        <img src="https://img.shields.io/badge/View_Folder-📁-purple?style=flat-square" alt="View Activity 3">
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📂 Repository Structure
+
+Each activity has its own dedicated folder containing the corresponding final outputs, source files, and write-ups:
+
+```text
+📦 GE4120-Digital-Portfolio
+├── 📁 Activity-1-Presentation-Design
+│   ├── 📄 README.md                 # Brief reflection / activity description
+│   ├── 📁 assets                     # Presentation preview images / screenshots
+│   └── 📑 Final-Presentation.pdf     # Presentation slides file
+├── 📁 Activity-2-Color-Typography
+│   ├── 📄 README.md                 # Color palette breakdown & font pairings
+│   ├── 📁 assets                     # Visual color boards & typography previews
+│   └── 🖼️ Moodboard-Output.png      # Final design board
+├── 📁 Activity-3-Infographics-MiniProject
+│   ├── 📄 README.md                 # Project background & rationale
+│   ├── 📁 assets                     # High-res infographic exports
+│   └── 📑 Project-Documentation.pdf # Mini-project report
+└── 📄 README.md                     # Main Portfolio Landing Page
