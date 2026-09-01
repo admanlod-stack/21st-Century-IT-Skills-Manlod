@@ -58,25 +58,3 @@ This repository serves as a digital archive of the activities, mini-projects, an
     </td>
   </tr>
 </table>
-
----
-
-## 📂 Repository Structure
-
-Each activity has its own dedicated folder containing the corresponding final outputs, source files, and write-ups:
-
-```text
-📦 GE4120-Digital-Portfolio
-├── 📁 Activity-1-Presentation-Design
-│   ├── 📄 README.md                 # Brief reflection / activity description
-│   ├── 📁 assets                     # Presentation preview images / screenshots
-│   └── 📑 Final-Presentation.pdf     # Presentation slides file
-├── 📁 Activity-2-Color-Typography
-│   ├── 📄 README.md                 # Color palette breakdown & font pairings
-│   ├── 📁 assets                     # Visual color boards & typography previews
-│   └── 🖼️ Moodboard-Output.png      # Final design board
-├── 📁 Activity-3-Infographics-MiniProject
-│   ├── 📄 README.md                 # Project background & rationale
-│   ├── 📁 assets                     # High-res infographic exports
-│   └── 📑 Project-Documentation.pdf # Mini-project report
-└── 📄 README.md                     # Main Portfolio Landing Page
