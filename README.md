@@ -7,7 +7,7 @@
   <strong>Course:</strong> GE 4120 – 21st Century IT Skills
 </p>
 
-![Elective](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge&logo=github)
+![Elective](https://img.shields.io/badge/Elective-21st%20Century%20IT%20Skills-success?style=for-the-badge&logo=github)
 ![Field](https://img.shields.io/badge/Focus-Digital%20Design%20%26%20IT-blue?style=for-the-badge)
 ![Academic](https://img.shields.io/badge/Course-BS%20Nursing-red?style=for-the-badge)
 
