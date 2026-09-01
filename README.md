@@ -50,7 +50,7 @@ This repository serves as a digital archive of the activities, mini-projects, an
     <td width="33%" align="center" valign="top">
       <h3>📱 Activity 3</h3>
       <p><strong>Infographics & Documentation</strong></p>
-      <p align="justify">Creation of social media infographics and comprehensive mini-project documentation, highlighting the real-world application of 21st-century IT skills.</p>
+      <p align="justify">Creation of infographics and comprehensive mini-project documentation, highlighting the real-world application of 21st-century IT skills.</p>
       <br>
       <a href="./Activity-3-Infographics-MiniProject/">
         <img src="https://img.shields.io/badge/View_Folder-📁-purple?style=flat-square" alt="View Activity 3">
