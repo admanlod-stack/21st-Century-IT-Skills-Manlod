@@ -1,5 +1,3 @@
-# 21st-Century-IT-Skills-Manlod
-This contains a compilation of all the activities, tasks, and outputs I have completed throughout the 21st Century IT Skills elective course.
 # 👋 Welcome to My GE 4120 Digital Portfolio
 
 Hello! My name is **Aaron Manlod** from **BSN 4D**, and welcome to my **GE 4120 – 21st Century IT Skills Digital Portfolio**.
