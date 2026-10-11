@@ -63,7 +63,7 @@ This repository serves as a digital archive of the activities, mini-projects, an
       <p><strong>Midterm Report: Google Workspace</strong></p>
       <p align="justify">Comprehensive analysis and demonstration of collaborative cloud productivity tools, focusing on data collection via Google Forms and virtual communication through Google Meet.</p>
       <br>
-      <a href="./Activity-4-Midterm-Rerport/">
+      <a href="./Activity-4-Midterm-Report/">
         <img src="https://img.shields.io/badge/View_Folder-📁-00a8e8?style=flat-square" alt="View Activity 4">
       </a>
     </td>
