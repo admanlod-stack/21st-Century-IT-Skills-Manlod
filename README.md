@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Welcome to My GE 4120 Digital Portfolio
+# 👋 GE 4120: 21ST CENTURY IT SKILLS
 
 <p align="center">
   <strong>Aaron Manlod</strong> • <em>BSN 4D</em><br>
