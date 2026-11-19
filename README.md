@@ -27,7 +27,7 @@
     <td width="32%" align="center" valign="middle">
       <br/>
       <!-- Replace 'your-profile-photo.jpg' with the actual image filename in your repo -->
-      <img src="./your-profile-photo.jpg" alt="Aaron Manlod" width="190" />
+      <img src="./AaronManlodProfile.jpeg" alt="Aaron Manlod" width="190" />
       <br/><br/>
       <strong>Aaron D. Manlod</strong><br/>
       <sub>4th Year • BSN 4D</sub><br/>
