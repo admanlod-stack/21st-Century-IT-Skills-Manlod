@@ -26,7 +26,6 @@
   <tr>
     <td width="32%" align="center" valign="middle">
       <br/>
-      <!-- Replace 'your-profile-photo.jpg' with the actual image filename in your repo -->
       <img src="./AaronManlodProfile.jpeg" alt="Aaron Manlod" width="190" />
       <br/><br/>
       <strong>Aaron D. Manlod</strong><br/>
@@ -40,7 +39,7 @@
         Hi! I'm <strong>Aaron</strong>, a 4th-year <strong>Bachelor of Science in Nursing (BSN 4D)</strong> student at <strong>Ateneo de Davao University</strong>. While my primary path is healthcare and clinical nursing, I love blending creativity with technology.
       </p>
       <p>
-        Outside of hospital duties, my interests revolve around <strong>graphic design, pastel visual aesthetics, and gaming</strong>. This repository serves as a curated archive of my growth, outputs, and mini-projects for <strong>GE 4120 – 21st Century IT Skills</strong>.
+        Outside of hospital duties, my interests revolve around <strong>graphic design, pastel visual aesthetics, and gaming</strong>. I enjoy exploring modern digital tools that make communication, design, and everyday workflows smarter and more expressive.
       </p>
       <blockquote>
         💡 <em>"Bridging healthcare discipline with modern digital creativity and AI-powered productivity."</em>
@@ -61,6 +60,16 @@
 | *Visual Hierarchy, Color Theory, Personal Branding & Infographics* | *Collaborative Cloud Workflows, Data Collection & Virtual Demos* | *AI Image Generation, LLM Comparison & Web Deployment* |
 
 </div>
+
+<br/>
+
+---
+
+## 📌 About This Portfolio
+
+This repository serves as a centralized digital archive storing all the activities, creative outputs, and mini-projects completed in our elective course, **GE 4120 – 21st Century IT Skills**.
+
+Each folder in this portfolio represents a dedicated module from the semester—documenting my hands-on progression from foundational visual presentation design and personal branding to collaborative cloud workflows, AI prompt engineering, web portfolio deployment, and AI-assisted resume building. Every module includes its respective project files, visual outputs, and reflections on how these modern digital tools apply to real-world academic and professional settings.
 
 <br/>
 
